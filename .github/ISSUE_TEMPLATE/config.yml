@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📘 Handbook problem?
+    url: https://github.com/PCDSBlueTide/2840-brain/issues/new/choose
+    about: Fixes to the team handbook go in the handbook repo.
+  - name: 💬 Quick question?
+    url: https://chat.google.com
+    about: For fast, today-only questions use the team's Google Chat spaces.
