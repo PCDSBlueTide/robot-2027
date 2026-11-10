@@ -1,0 +1,3 @@
+# Leads are automatically asked to review every pull request.
+# https://docs.github.com/articles/about-code-owners
+* @PCDSBlueTide/leads
